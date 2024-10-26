@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## jalankan dengan perintah ini 
 ```bash 
-dawnvalid.py
+python3 dawnvalid.py
 ```
 ## Buat file .env dan revisi sesuka hati tuan :)
 TELEGRAM_BOT_TOKEN=<YOUR_TELEGRAM_BOT_TOKEN>
