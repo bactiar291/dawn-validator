@@ -1,6 +1,14 @@
 # dawn-validator
 gas bang ................................
+## perlu diingat wahai tuan2 jika semuanya sudah terinstal dan ada error seperti ini 
+❌ Gagal Kirim Pesan Ke Telegram: 404 - {"ok":false,"error_code":404,"description":"Not Found"}
+## ini gpp masih masuk pontnya, karena gagal diatas karena tuan tidak mendapati notif di telegram saja bukan point
+## tapi jika tuan sudah mengisi token bot tele dan chat id nya maka status nya akan seperti ini
+✅   Pesan Dikirim Ke Telegram.
+dan tuan akan mendapati notif di telegram "example@gmail.com mendapatkan 20572 poin."
+# paham tuan sampai sini ?, kalau sudah paham gas lanjut
 # Dawn Validator klaim otomatis
+## cara dapet token bot telegram dan chat id bisa liat tutor youtube tuan tuan ku seklaian  
 
 Skrip ini digunakan untuk otomatisasi klaim poin pada Dawn Validator. Skrip ini mengambil poin dari beberapa akun secara bersamaan dan mengirimkan pemberitahuan ke Telegram.
 
