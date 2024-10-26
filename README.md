@@ -20,7 +20,7 @@ Skrip ini digunakan untuk otomatisasi klaim poin pada Dawn Validator. Skrip ini 
 1. Clone repositori ini:
 
    ```bash
-   git clone 
+   git clone https://github.com/bactiar291/dawn-validator.git
    cd dawn-validator
    ```
 ## Buat dan aktifkan virtual environment (opsional tetapi disarankan):
