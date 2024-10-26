@@ -34,6 +34,11 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+## jalankan dengan perintah ini 
+```bash 
+dawnvalid.py
+```
 ## Buat file .env dan revisi sesuka hati tuan :)
 TELEGRAM_BOT_TOKEN=<YOUR_TELEGRAM_BOT_TOKEN>
 TELEGRAM_CHAT_ID=<YOUR_TELEGRAM_CHAT_ID>
