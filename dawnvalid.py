@@ -6,13 +6,13 @@ from dotenv import load_dotenv
 import warnings
 from colorama import init, Fore, Style
 
-# Inisialisasi colorama
+
 init(autoreset=True)
 
-# Mengabaikan peringatan SSL
+
 warnings.simplefilter('ignore', requests.packages.urllib3.exceptions.InsecureRequestWarning)
 
-# Memuat variabel dari file .env
+
 load_dotenv()
 
 api_endpoints = {
