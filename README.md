@@ -1,5 +1,8 @@
+# update! 
+# jika kalian menggunakan proxy bisa bisa run dengan perintah "python3 proxydawn.py" jika tidak menggunakan bisa run dengan "python3 dawnvalid.py"
+
+
 # dawn-validator
-gas bang ................................
 ## perlu diingat wahai tuan2 jika semuanya sudah terinstal dan ada error seperti ini 
 ❌ Gagal Kirim Pesan Ke Telegram: 404 - {"ok":false,"error_code":404,"description":"Not Found"}
 ## ini gpp masih masuk pointnya, karena gagal diatas jika tuan tidak mendapati notif di telegram saja bukan point
